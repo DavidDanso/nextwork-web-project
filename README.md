@@ -1,6 +1,5 @@
-Here's an updated README for your Java web app project on EC2, incorporating Java Corretto and your AWS/VSCode SSH workflow:
+Here's your README in proper markdown format:
 
-```markdown
 # Java Web App on EC2
 
 A Java web application built with Amazon Corretto and deployed on an AWS EC2 instance.
