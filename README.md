@@ -1,5 +1,3 @@
-Here's your README in proper markdown format:
-
 # Java Web App on EC2
 
 A Java web application built with Amazon Corretto and deployed on an AWS EC2 instance.
